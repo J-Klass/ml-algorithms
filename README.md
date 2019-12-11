@@ -1,5 +1,6 @@
 # ML
-Implementation of different ML Algorithms only using Numpy
+
+Implementation of common ML Algorithms only using Numpy.
 
 ## Develop
 
